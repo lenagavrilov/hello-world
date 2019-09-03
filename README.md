@@ -1,2 +1,2 @@
 # hello-world
-Wanna see what it is.
+Hello, My name's Lena and I want to see what GitHib is about.
